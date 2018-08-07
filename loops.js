@@ -36,7 +36,8 @@ function doWhileLoop(array){
 }
 */
 
-//
+//Using the incrementVariable function (returning false) will only pop an element off of the array once, because incrementVariable will never be empty (or false)
+//The second function will empty the array until the array is empty (its length is 0)
 
 
 
